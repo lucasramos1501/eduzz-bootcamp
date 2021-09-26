@@ -1,4 +1,6 @@
-# Eduzz Bootcamp Fullstack
+
+
+![logo do bootcamp](https://hermes.digitalinnovation.one/tracks/4b31603d-4691-42bb-b588-415285a592a5.png)
 
 Nesse repositório pretendo deixar tudo o que estudei relacionando ao bootcamp, pelos links abaixo
 você poderá, se desejar, dar uma olhada no que foi feito.
