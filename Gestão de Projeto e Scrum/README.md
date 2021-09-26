@@ -1,4 +1,4 @@
-# Gestão de Projeto e SCRUM
+# ![Eduzz Fullstack Developer](https://hermes.digitalinnovation.one/tracks/4b31603d-4691-42bb-b588-415285a592a5.png)
 
 ## Introdução ao SCRUM
 
